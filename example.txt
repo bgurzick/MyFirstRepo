@@ -1,3 +1,2 @@
 I am making many changes
-I am making even more changes
-I am making a third commit of changes
+I am making something or other
